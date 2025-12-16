@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CP7 Var15</title>
+  <link rel="stylesheet" href="css/layout.css" />
+  <link rel="stylesheet" href="css/work.css" />
+</head>
+<body>
+  <div class="page">
+    
+    <aside class="col-left">
+      <section class="block block-1">
+        <div class="label">1</div>
+        <div class="muted">Static block 1</div>
+      </section>
+
+      <section class="block block-4">
+        <div class="label">4</div>
+        <button id="playBtn" class="btn primary">▶ play</button>
+        <div class="muted small">
+          Work layer appears inside block 3
+        </div>
+      </section>
+    </aside>
+
+    <div class="col-gap"></div>
+
+   
+    <main class="col-right">
+      <section class="block block-2">
+        <div class="label">2</div>
+        <div class="topbar">
+          <label class="small">x:
+            <input id="xInput" type="number" value="15" min="0" max="999" />
+          </label>
+        </div>
+      </section>
+
+      <section class="block block-3" id="block3">
+        <div class="label">3</div>
+
+        
+        <div id="block3Default">
+          <h2 class="h2">Комп’ютерний практикум №7 — Варіант 15</h2>
+          <p class="muted">
+            Натисни <b>play</b> у блоці 4 → з’явиться work всередині блоку 3.
+            Після <b>close</b> тут буде таблиця логів (LocalStorage vs Server).
+          </p>
+
+          <div id="resultArea" class="result-area hidden">
+            <h3 class="h3">Logs after close</h3>
+            <div class="table-wrap">
+              <table class="log-table">
+                <thead>
+                  <tr>
+                    <th>LocalStorage (accumulated)</th>
+                    <th>Server (immediate)</th>
+                  </tr>
+                </thead>
+                <tbody id="logTableBody"></tbody>
+              </table>
+            </div>
+            <div class="muted small" id="diffInfo"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="block block-5">
+        <div class="label">5</div>
+        <div class="botbar">
+          <label class="small">y:
+            <input id="yInput" type="number" value="15" min="0" max="999" />
+          </label>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

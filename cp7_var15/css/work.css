@@ -1,0 +1,51 @@
+
+.work{
+  position: absolute;
+  inset: 0;
+  padding: 10px;
+  background: #fff;
+}
+
+.controls{
+  height: 50px;                
+  display: grid;
+  grid-template-columns: 120px 220px 1fr; 
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+}
+
+.controls .msg{
+  text-align: right;           
+  font-size: 13px;
+  opacity: .9;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.anim{
+  height: calc(100% - 50px);
+  border: 5px solid #1f9d49;
+  position: relative;
+  overflow: hidden;
+
+ 
+  background:
+    repeating-linear-gradient(0deg,  #f2f2f2 0 8px, #e6e6e6 8px 16px),
+    repeating-linear-gradient(90deg, rgba(0,0,0,0.06) 0 1px, transparent 1px 32px);
+}
+
+
+.ball{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.ball.yellow{ background: #ffd400; }
+.ball.red{ background: #ff2f2f; }
+
+.btn.sm{ padding: 7px 10px; font-size: 13px; }
+.btn:disabled{ opacity: .5; cursor: not-allowed; }

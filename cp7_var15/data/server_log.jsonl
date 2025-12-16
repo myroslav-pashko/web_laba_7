@@ -1,0 +1,927 @@
+{"no":1,"time_server":"2025-12-16T20:05:28+00:00","msg":"circles placed at random positions"}
+{"no":2,"time_server":"2025-12-16T20:05:28+00:00","msg":"play clicked → work shown"}
+{"no":3,"time_server":"2025-12-16T20:05:52+00:00","msg":"start clicked → animation started"}
+{"no":4,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=1, dir=R"}
+{"no":5,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=2, dir=D"}
+{"no":6,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=3, dir=L"}
+{"no":7,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=4, dir=U"}
+{"no":8,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=5, dir=R"}
+{"no":9,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=6, dir=D"}
+{"no":10,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=7, dir=L"}
+{"no":11,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=8, dir=U"}
+{"no":12,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=9, dir=R"}
+{"no":13,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=10, dir=D"}
+{"no":14,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=11, dir=L"}
+{"no":15,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=12, dir=U"}
+{"no":16,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=13, dir=R"}
+{"no":17,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=14, dir=D"}
+{"no":18,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=15, dir=L"}
+{"no":19,"time_server":"2025-12-16T20:05:52+00:00","msg":"move: step=16, dir=U"}
+{"no":20,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=17, dir=R"}
+{"no":21,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=18, dir=D"}
+{"no":22,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=19, dir=L"}
+{"no":23,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=20, dir=U"}
+{"no":24,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=21, dir=R"}
+{"no":25,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=22, dir=D"}
+{"no":26,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=23, dir=L"}
+{"no":27,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=24, dir=U"}
+{"no":28,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=25, dir=R"}
+{"no":29,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=26, dir=D"}
+{"no":30,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=27, dir=L"}
+{"no":31,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=28, dir=U"}
+{"no":32,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=29, dir=R"}
+{"no":33,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=30, dir=D"}
+{"no":34,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=31, dir=L"}
+{"no":35,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=32, dir=U"}
+{"no":36,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=33, dir=R"}
+{"no":37,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=34, dir=D"}
+{"no":38,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=35, dir=L"}
+{"no":39,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=36, dir=U"}
+{"no":40,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=37, dir=R"}
+{"no":41,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=38, dir=D"}
+{"no":42,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=39, dir=L"}
+{"no":43,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=40, dir=U"}
+{"no":44,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=41, dir=R"}
+{"no":45,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=42, dir=D"}
+{"no":46,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=43, dir=L"}
+{"no":47,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=44, dir=U"}
+{"no":48,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=45, dir=R"}
+{"no":49,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=46, dir=D"}
+{"no":50,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=47, dir=L"}
+{"no":51,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=48, dir=U"}
+{"no":52,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=49, dir=R"}
+{"no":53,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=50, dir=D"}
+{"no":54,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=51, dir=L"}
+{"no":55,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=52, dir=U"}
+{"no":56,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=53, dir=R"}
+{"no":57,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=54, dir=D"}
+{"no":58,"time_server":"2025-12-16T20:05:53+00:00","msg":"move: step=55, dir=L"}
+{"no":59,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=56, dir=U"}
+{"no":60,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=57, dir=R"}
+{"no":61,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=58, dir=D"}
+{"no":62,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=59, dir=L"}
+{"no":63,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=60, dir=U"}
+{"no":64,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=61, dir=R"}
+{"no":65,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=62, dir=D"}
+{"no":66,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=63, dir=L"}
+{"no":67,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=64, dir=U"}
+{"no":68,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=65, dir=R"}
+{"no":69,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=66, dir=D"}
+{"no":70,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=67, dir=L"}
+{"no":71,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=68, dir=U"}
+{"no":72,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=69, dir=R"}
+{"no":73,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=70, dir=D"}
+{"no":74,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=71, dir=L"}
+{"no":75,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=72, dir=U"}
+{"no":76,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=73, dir=R"}
+{"no":77,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=74, dir=D"}
+{"no":78,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=75, dir=L"}
+{"no":79,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=76, dir=U"}
+{"no":80,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=77, dir=R"}
+{"no":81,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=78, dir=D"}
+{"no":82,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=79, dir=L"}
+{"no":83,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=80, dir=U"}
+{"no":84,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=81, dir=R"}
+{"no":85,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=82, dir=D"}
+{"no":86,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=83, dir=L"}
+{"no":87,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=84, dir=U"}
+{"no":88,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=85, dir=R"}
+{"no":89,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=86, dir=D"}
+{"no":90,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=87, dir=L"}
+{"no":91,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=88, dir=U"}
+{"no":92,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=89, dir=R"}
+{"no":93,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=90, dir=D"}
+{"no":94,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=91, dir=L"}
+{"no":95,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=92, dir=U"}
+{"no":96,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=93, dir=R"}
+{"no":97,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=94, dir=D"}
+{"no":98,"time_server":"2025-12-16T20:05:54+00:00","msg":"move: step=95, dir=L"}
+{"no":99,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=96, dir=U"}
+{"no":100,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=97, dir=R"}
+{"no":101,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=98, dir=D"}
+{"no":102,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=99, dir=L"}
+{"no":103,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=100, dir=U"}
+{"no":104,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=101, dir=R"}
+{"no":105,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=102, dir=D"}
+{"no":106,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=103, dir=L"}
+{"no":107,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=104, dir=U"}
+{"no":108,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=105, dir=R"}
+{"no":109,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=106, dir=D"}
+{"no":110,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=107, dir=L"}
+{"no":111,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=108, dir=U"}
+{"no":112,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=109, dir=R"}
+{"no":113,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=110, dir=D"}
+{"no":114,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=111, dir=L"}
+{"no":115,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=112, dir=U"}
+{"no":116,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=113, dir=R"}
+{"no":117,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=114, dir=D"}
+{"no":118,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=115, dir=L"}
+{"no":119,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=116, dir=U"}
+{"no":120,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=117, dir=R"}
+{"no":121,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=118, dir=D"}
+{"no":122,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=119, dir=L"}
+{"no":123,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=120, dir=U"}
+{"no":124,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=121, dir=R"}
+{"no":125,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=122, dir=D"}
+{"no":126,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=123, dir=L"}
+{"no":127,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=124, dir=U"}
+{"no":128,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=125, dir=R"}
+{"no":129,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=126, dir=D"}
+{"no":130,"time_server":"2025-12-16T20:05:55+00:00","msg":"wall touched → direction reversed to R"}
+{"no":131,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=127, dir=R"}
+{"no":132,"time_server":"2025-12-16T20:05:55+00:00","msg":"wall touched → direction reversed to U"}
+{"no":133,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=128, dir=U"}
+{"no":134,"time_server":"2025-12-16T20:05:55+00:00","msg":"wall touched → direction reversed to L"}
+{"no":135,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=129, dir=L"}
+{"no":136,"time_server":"2025-12-16T20:05:55+00:00","msg":"wall touched → direction reversed to D"}
+{"no":137,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=130, dir=D"}
+{"no":138,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=131, dir=L"}
+{"no":139,"time_server":"2025-12-16T20:05:55+00:00","msg":"wall touched → direction reversed to D"}
+{"no":140,"time_server":"2025-12-16T20:05:55+00:00","msg":"wall touched → direction reversed to U"}
+{"no":141,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=132, dir=U"}
+{"no":142,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=133, dir=R"}
+{"no":143,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=134, dir=D"}
+{"no":144,"time_server":"2025-12-16T20:05:55+00:00","msg":"move: step=135, dir=L"}
+{"no":145,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=136, dir=U"}
+{"no":146,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=137, dir=R"}
+{"no":147,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=138, dir=D"}
+{"no":148,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=139, dir=L"}
+{"no":149,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=140, dir=U"}
+{"no":150,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=141, dir=R"}
+{"no":151,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=142, dir=D"}
+{"no":152,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=143, dir=L"}
+{"no":153,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=144, dir=U"}
+{"no":154,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=145, dir=R"}
+{"no":155,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=146, dir=D"}
+{"no":156,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=147, dir=L"}
+{"no":157,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=148, dir=U"}
+{"no":158,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=149, dir=R"}
+{"no":159,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=150, dir=D"}
+{"no":160,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=151, dir=L"}
+{"no":161,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=152, dir=U"}
+{"no":162,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=153, dir=R"}
+{"no":163,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=154, dir=D"}
+{"no":164,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=155, dir=L"}
+{"no":165,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=156, dir=U"}
+{"no":166,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=157, dir=R"}
+{"no":167,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=158, dir=D"}
+{"no":168,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=159, dir=L"}
+{"no":169,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=160, dir=U"}
+{"no":170,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=161, dir=R"}
+{"no":171,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=162, dir=D"}
+{"no":172,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=163, dir=L"}
+{"no":173,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=164, dir=U"}
+{"no":174,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=165, dir=R"}
+{"no":175,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=166, dir=D"}
+{"no":176,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=167, dir=L"}
+{"no":177,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=168, dir=U"}
+{"no":178,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=169, dir=R"}
+{"no":179,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=170, dir=D"}
+{"no":180,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=171, dir=L"}
+{"no":181,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=172, dir=U"}
+{"no":182,"time_server":"2025-12-16T20:05:56+00:00","msg":"move: step=173, dir=R"}
+{"no":183,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=174, dir=D"}
+{"no":184,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=175, dir=L"}
+{"no":185,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=176, dir=U"}
+{"no":186,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=177, dir=R"}
+{"no":187,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=178, dir=D"}
+{"no":188,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=179, dir=L"}
+{"no":189,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=180, dir=U"}
+{"no":190,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=181, dir=R"}
+{"no":191,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=182, dir=D"}
+{"no":192,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=183, dir=L"}
+{"no":193,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=184, dir=U"}
+{"no":194,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=185, dir=R"}
+{"no":195,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=186, dir=D"}
+{"no":196,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=187, dir=L"}
+{"no":197,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=188, dir=U"}
+{"no":198,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=189, dir=R"}
+{"no":199,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=190, dir=D"}
+{"no":200,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=191, dir=L"}
+{"no":201,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=192, dir=U"}
+{"no":202,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=193, dir=R"}
+{"no":203,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=194, dir=D"}
+{"no":204,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=195, dir=L"}
+{"no":205,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=196, dir=U"}
+{"no":206,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=197, dir=R"}
+{"no":207,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=198, dir=D"}
+{"no":208,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=199, dir=L"}
+{"no":209,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=200, dir=U"}
+{"no":210,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=201, dir=R"}
+{"no":211,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=202, dir=D"}
+{"no":212,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=203, dir=L"}
+{"no":213,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=204, dir=U"}
+{"no":214,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=205, dir=R"}
+{"no":215,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=206, dir=D"}
+{"no":216,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=207, dir=L"}
+{"no":217,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=208, dir=U"}
+{"no":218,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=209, dir=R"}
+{"no":219,"time_server":"2025-12-16T20:05:57+00:00","msg":"wall touched → direction reversed to U"}
+{"no":220,"time_server":"2025-12-16T20:05:57+00:00","msg":"wall touched → direction reversed to D"}
+{"no":221,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=210, dir=D"}
+{"no":222,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=211, dir=L"}
+{"no":223,"time_server":"2025-12-16T20:05:57+00:00","msg":"wall touched → direction reversed to D"}
+{"no":224,"time_server":"2025-12-16T20:05:57+00:00","msg":"wall touched → direction reversed to U"}
+{"no":225,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=212, dir=U"}
+{"no":226,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=213, dir=R"}
+{"no":227,"time_server":"2025-12-16T20:05:57+00:00","msg":"wall touched → direction reversed to U"}
+{"no":228,"time_server":"2025-12-16T20:05:57+00:00","msg":"wall touched → direction reversed to D"}
+{"no":229,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=214, dir=D"}
+{"no":230,"time_server":"2025-12-16T20:05:57+00:00","msg":"move: step=215, dir=L"}
+{"no":231,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":232,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":233,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=216, dir=U"}
+{"no":234,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=217, dir=R"}
+{"no":235,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":236,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":237,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=218, dir=D"}
+{"no":238,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=219, dir=L"}
+{"no":239,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":240,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":241,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=220, dir=U"}
+{"no":242,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=221, dir=R"}
+{"no":243,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":244,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":245,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=222, dir=D"}
+{"no":246,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=223, dir=L"}
+{"no":247,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":248,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":249,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=224, dir=U"}
+{"no":250,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=225, dir=R"}
+{"no":251,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":252,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":253,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=226, dir=D"}
+{"no":254,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=227, dir=L"}
+{"no":255,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":256,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":257,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=228, dir=U"}
+{"no":258,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=229, dir=R"}
+{"no":259,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":260,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":261,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=230, dir=D"}
+{"no":262,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=231, dir=L"}
+{"no":263,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":264,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":265,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=232, dir=U"}
+{"no":266,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=233, dir=R"}
+{"no":267,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":268,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":269,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=234, dir=D"}
+{"no":270,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=235, dir=L"}
+{"no":271,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":272,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":273,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=236, dir=U"}
+{"no":274,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=237, dir=R"}
+{"no":275,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":276,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":277,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=238, dir=D"}
+{"no":278,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=239, dir=L"}
+{"no":279,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":280,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":281,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=240, dir=U"}
+{"no":282,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=241, dir=R"}
+{"no":283,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":284,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":285,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=242, dir=D"}
+{"no":286,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=243, dir=L"}
+{"no":287,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":288,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":289,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=244, dir=U"}
+{"no":290,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=245, dir=R"}
+{"no":291,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":292,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":293,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=246, dir=D"}
+{"no":294,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=247, dir=L"}
+{"no":295,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":296,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":297,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=248, dir=U"}
+{"no":298,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=249, dir=R"}
+{"no":299,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":300,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":301,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=250, dir=D"}
+{"no":302,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=251, dir=L"}
+{"no":303,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":304,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":305,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=252, dir=U"}
+{"no":306,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=253, dir=R"}
+{"no":307,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to U"}
+{"no":308,"time_server":"2025-12-16T20:05:58+00:00","msg":"wall touched → direction reversed to D"}
+{"no":309,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=254, dir=D"}
+{"no":310,"time_server":"2025-12-16T20:05:58+00:00","msg":"move: step=255, dir=L"}
+{"no":311,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":312,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":313,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=256, dir=U"}
+{"no":314,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=257, dir=R"}
+{"no":315,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":316,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":317,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=258, dir=D"}
+{"no":318,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=259, dir=L"}
+{"no":319,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":320,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":321,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=260, dir=U"}
+{"no":322,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=261, dir=R"}
+{"no":323,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":324,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":325,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=262, dir=D"}
+{"no":326,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=263, dir=L"}
+{"no":327,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":328,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":329,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=264, dir=U"}
+{"no":330,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=265, dir=R"}
+{"no":331,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":332,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":333,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=266, dir=D"}
+{"no":334,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=267, dir=L"}
+{"no":335,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":336,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":337,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=268, dir=U"}
+{"no":338,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=269, dir=R"}
+{"no":339,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":340,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":341,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=270, dir=D"}
+{"no":342,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=271, dir=L"}
+{"no":343,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":344,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":345,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=272, dir=U"}
+{"no":346,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=273, dir=R"}
+{"no":347,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":348,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":349,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=274, dir=D"}
+{"no":350,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=275, dir=L"}
+{"no":351,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":352,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":353,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=276, dir=U"}
+{"no":354,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=277, dir=R"}
+{"no":355,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":356,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":357,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=278, dir=D"}
+{"no":358,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=279, dir=L"}
+{"no":359,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":360,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":361,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=280, dir=U"}
+{"no":362,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=281, dir=R"}
+{"no":363,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":364,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":365,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=282, dir=D"}
+{"no":366,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=283, dir=L"}
+{"no":367,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":368,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":369,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=284, dir=U"}
+{"no":370,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=285, dir=R"}
+{"no":371,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":372,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":373,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=286, dir=D"}
+{"no":374,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=287, dir=L"}
+{"no":375,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":376,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":377,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=288, dir=U"}
+{"no":378,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=289, dir=R"}
+{"no":379,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":380,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":381,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=290, dir=D"}
+{"no":382,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=291, dir=L"}
+{"no":383,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":384,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":385,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=292, dir=U"}
+{"no":386,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=293, dir=R"}
+{"no":387,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to U"}
+{"no":388,"time_server":"2025-12-16T20:05:59+00:00","msg":"wall touched → direction reversed to D"}
+{"no":389,"time_server":"2025-12-16T20:05:59+00:00","msg":"move: step=294, dir=D"}
+{"no":390,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=295, dir=L"}
+{"no":391,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":392,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":393,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=296, dir=U"}
+{"no":394,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=297, dir=R"}
+{"no":395,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":396,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":397,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=298, dir=D"}
+{"no":398,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=299, dir=L"}
+{"no":399,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":400,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":401,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=300, dir=U"}
+{"no":402,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=301, dir=R"}
+{"no":403,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":404,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":405,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=302, dir=D"}
+{"no":406,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=303, dir=L"}
+{"no":407,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":408,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":409,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=304, dir=U"}
+{"no":410,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=305, dir=R"}
+{"no":411,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":412,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":413,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=306, dir=D"}
+{"no":414,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=307, dir=L"}
+{"no":415,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":416,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":417,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=308, dir=U"}
+{"no":418,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=309, dir=R"}
+{"no":419,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":420,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":421,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=310, dir=D"}
+{"no":422,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=311, dir=L"}
+{"no":423,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":424,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":425,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=312, dir=U"}
+{"no":426,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=313, dir=R"}
+{"no":427,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":428,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":429,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=314, dir=D"}
+{"no":430,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=315, dir=L"}
+{"no":431,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":432,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":433,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=316, dir=U"}
+{"no":434,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=317, dir=R"}
+{"no":435,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":436,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":437,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=318, dir=D"}
+{"no":438,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=319, dir=L"}
+{"no":439,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":440,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":441,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=320, dir=U"}
+{"no":442,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=321, dir=R"}
+{"no":443,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":444,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":445,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=322, dir=D"}
+{"no":446,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=323, dir=L"}
+{"no":447,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":448,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":449,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=324, dir=U"}
+{"no":450,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=325, dir=R"}
+{"no":451,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":452,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":453,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=326, dir=D"}
+{"no":454,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=327, dir=L"}
+{"no":455,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":456,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":457,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=328, dir=U"}
+{"no":458,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=329, dir=R"}
+{"no":459,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":460,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":461,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=330, dir=D"}
+{"no":462,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=331, dir=L"}
+{"no":463,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":464,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":465,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=332, dir=U"}
+{"no":466,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=333, dir=R"}
+{"no":467,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to U"}
+{"no":468,"time_server":"2025-12-16T20:06:00+00:00","msg":"wall touched → direction reversed to D"}
+{"no":469,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=334, dir=D"}
+{"no":470,"time_server":"2025-12-16T20:06:00+00:00","msg":"move: step=335, dir=L"}
+{"no":471,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":472,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":473,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=336, dir=U"}
+{"no":474,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=337, dir=R"}
+{"no":475,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":476,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":477,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=338, dir=D"}
+{"no":478,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=339, dir=L"}
+{"no":479,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":480,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":481,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=340, dir=U"}
+{"no":482,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=341, dir=R"}
+{"no":483,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":484,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":485,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=342, dir=D"}
+{"no":486,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=343, dir=L"}
+{"no":487,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":488,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":489,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=344, dir=U"}
+{"no":490,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=345, dir=R"}
+{"no":491,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":492,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":493,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=346, dir=D"}
+{"no":494,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=347, dir=L"}
+{"no":495,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":496,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":497,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=348, dir=U"}
+{"no":498,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=349, dir=R"}
+{"no":499,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":500,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":501,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=350, dir=D"}
+{"no":502,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=351, dir=L"}
+{"no":503,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":504,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":505,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=352, dir=U"}
+{"no":506,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=353, dir=R"}
+{"no":507,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":508,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":509,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=354, dir=D"}
+{"no":510,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=355, dir=L"}
+{"no":511,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":512,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":513,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=356, dir=U"}
+{"no":514,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=357, dir=R"}
+{"no":515,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":516,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":517,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=358, dir=D"}
+{"no":518,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=359, dir=L"}
+{"no":519,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":520,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":521,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=360, dir=U"}
+{"no":522,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=361, dir=R"}
+{"no":523,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":524,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":525,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=362, dir=D"}
+{"no":526,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=363, dir=L"}
+{"no":527,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":528,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":529,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=364, dir=U"}
+{"no":530,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=365, dir=R"}
+{"no":531,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":532,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":533,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=366, dir=D"}
+{"no":534,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=367, dir=L"}
+{"no":535,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":536,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":537,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=368, dir=U"}
+{"no":538,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=369, dir=R"}
+{"no":539,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":540,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":541,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=370, dir=D"}
+{"no":542,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=371, dir=L"}
+{"no":543,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":544,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":545,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=372, dir=U"}
+{"no":546,"time_server":"2025-12-16T20:06:01+00:00","msg":"move: step=373, dir=R"}
+{"no":547,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to U"}
+{"no":548,"time_server":"2025-12-16T20:06:01+00:00","msg":"wall touched → direction reversed to D"}
+{"no":549,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=374, dir=D"}
+{"no":550,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=375, dir=L"}
+{"no":551,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":552,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":553,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=376, dir=U"}
+{"no":554,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=377, dir=R"}
+{"no":555,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":556,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":557,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=378, dir=D"}
+{"no":558,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=379, dir=L"}
+{"no":559,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":560,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":561,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=380, dir=U"}
+{"no":562,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=381, dir=R"}
+{"no":563,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":564,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":565,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=382, dir=D"}
+{"no":566,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=383, dir=L"}
+{"no":567,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":568,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":569,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=384, dir=U"}
+{"no":570,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=385, dir=R"}
+{"no":571,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":572,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":573,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=386, dir=D"}
+{"no":574,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=387, dir=L"}
+{"no":575,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":576,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":577,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=388, dir=U"}
+{"no":578,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=389, dir=R"}
+{"no":579,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":580,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":581,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=390, dir=D"}
+{"no":582,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=391, dir=L"}
+{"no":583,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":584,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":585,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=392, dir=U"}
+{"no":586,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=393, dir=R"}
+{"no":587,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":588,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":589,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=394, dir=D"}
+{"no":590,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=395, dir=L"}
+{"no":591,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":592,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":593,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=396, dir=U"}
+{"no":594,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=397, dir=R"}
+{"no":595,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":596,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":597,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=398, dir=D"}
+{"no":598,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=399, dir=L"}
+{"no":599,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":600,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":601,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=400, dir=U"}
+{"no":602,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=401, dir=R"}
+{"no":603,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":604,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":605,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=402, dir=D"}
+{"no":606,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=403, dir=L"}
+{"no":607,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":608,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":609,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=404, dir=U"}
+{"no":610,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=405, dir=R"}
+{"no":611,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":612,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":613,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=406, dir=D"}
+{"no":614,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=407, dir=L"}
+{"no":615,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":616,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":617,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=408, dir=U"}
+{"no":618,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=409, dir=R"}
+{"no":619,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":620,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":621,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=410, dir=D"}
+{"no":622,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=411, dir=L"}
+{"no":623,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to D"}
+{"no":624,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":625,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=412, dir=U"}
+{"no":626,"time_server":"2025-12-16T20:06:02+00:00","msg":"move: step=413, dir=R"}
+{"no":627,"time_server":"2025-12-16T20:06:02+00:00","msg":"wall touched → direction reversed to U"}
+{"no":628,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":629,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=414, dir=D"}
+{"no":630,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=415, dir=L"}
+{"no":631,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":632,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":633,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=416, dir=U"}
+{"no":634,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":635,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=417, dir=L"}
+{"no":636,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":637,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":638,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=418, dir=U"}
+{"no":639,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":640,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":641,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=419, dir=R"}
+{"no":642,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":643,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":644,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=420, dir=D"}
+{"no":645,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":646,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":647,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=421, dir=L"}
+{"no":648,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":649,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":650,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=422, dir=U"}
+{"no":651,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":652,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":653,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=423, dir=R"}
+{"no":654,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":655,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":656,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=424, dir=D"}
+{"no":657,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":658,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":659,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=425, dir=L"}
+{"no":660,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":661,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":662,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=426, dir=U"}
+{"no":663,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":664,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":665,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=427, dir=R"}
+{"no":666,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":667,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":668,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=428, dir=D"}
+{"no":669,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":670,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":671,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=429, dir=L"}
+{"no":672,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":673,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":674,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=430, dir=U"}
+{"no":675,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":676,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":677,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=431, dir=R"}
+{"no":678,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":679,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":680,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=432, dir=D"}
+{"no":681,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":682,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":683,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=433, dir=L"}
+{"no":684,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":685,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":686,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=434, dir=U"}
+{"no":687,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":688,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":689,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=435, dir=R"}
+{"no":690,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":691,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":692,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=436, dir=D"}
+{"no":693,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":694,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":695,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=437, dir=L"}
+{"no":696,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":697,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":698,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=438, dir=U"}
+{"no":699,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":700,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":701,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=439, dir=R"}
+{"no":702,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":703,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":704,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=440, dir=D"}
+{"no":705,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":706,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":707,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=441, dir=L"}
+{"no":708,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":710,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=442, dir=U"}
+{"no":709,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":711,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":712,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":713,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=443, dir=R"}
+{"no":714,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":715,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":716,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=444, dir=D"}
+{"no":717,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":718,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":719,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=445, dir=L"}
+{"no":720,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":721,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":722,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=446, dir=U"}
+{"no":723,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":724,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":725,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=447, dir=R"}
+{"no":726,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":727,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":728,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=448, dir=D"}
+{"no":729,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":730,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":731,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=449, dir=L"}
+{"no":732,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":733,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":734,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=450, dir=U"}
+{"no":735,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":736,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":737,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=451, dir=R"}
+{"no":738,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to U"}
+{"no":739,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to D"}
+{"no":740,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=452, dir=D"}
+{"no":741,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to R"}
+{"no":742,"time_server":"2025-12-16T20:06:03+00:00","msg":"wall touched → direction reversed to L"}
+{"no":743,"time_server":"2025-12-16T20:06:03+00:00","msg":"move: step=453, dir=L"}
+{"no":744,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":745,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":746,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=454, dir=U"}
+{"no":747,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":748,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":749,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=455, dir=R"}
+{"no":750,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":751,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":752,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=456, dir=D"}
+{"no":753,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":754,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":755,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=457, dir=L"}
+{"no":756,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":757,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":758,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=458, dir=U"}
+{"no":759,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":760,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":761,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=459, dir=R"}
+{"no":762,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":763,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":764,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=460, dir=D"}
+{"no":765,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":766,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":767,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=461, dir=L"}
+{"no":768,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":769,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":770,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=462, dir=U"}
+{"no":771,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":772,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":773,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=463, dir=R"}
+{"no":774,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":775,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":776,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=464, dir=D"}
+{"no":777,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":778,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":779,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=465, dir=L"}
+{"no":780,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":781,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":782,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=466, dir=U"}
+{"no":783,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":784,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":785,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=467, dir=R"}
+{"no":786,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":787,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":788,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=468, dir=D"}
+{"no":789,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":790,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":791,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=469, dir=L"}
+{"no":792,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":793,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":794,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=470, dir=U"}
+{"no":795,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":796,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":797,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=471, dir=R"}
+{"no":798,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":799,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":800,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=472, dir=D"}
+{"no":801,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":802,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":803,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=473, dir=L"}
+{"no":804,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":805,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":806,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=474, dir=U"}
+{"no":807,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":808,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":809,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=475, dir=R"}
+{"no":810,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":811,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":812,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=476, dir=D"}
+{"no":813,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":814,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":815,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=477, dir=L"}
+{"no":816,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":817,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":818,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=478, dir=U"}
+{"no":819,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":820,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":821,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=479, dir=R"}
+{"no":822,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":823,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":824,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=480, dir=D"}
+{"no":825,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":826,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":827,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=481, dir=L"}
+{"no":828,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":829,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":830,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=482, dir=U"}
+{"no":831,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":832,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":833,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=483, dir=R"}
+{"no":834,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":835,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":836,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=484, dir=D"}
+{"no":837,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":838,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":839,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=485, dir=L"}
+{"no":840,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":841,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":842,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=486, dir=U"}
+{"no":843,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":844,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":845,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=487, dir=R"}
+{"no":846,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":847,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":848,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=488, dir=D"}
+{"no":849,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":850,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":851,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=489, dir=L"}
+{"no":852,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":853,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":854,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=490, dir=U"}
+{"no":855,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to L"}
+{"no":856,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":857,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=491, dir=R"}
+{"no":858,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to U"}
+{"no":859,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to D"}
+{"no":860,"time_server":"2025-12-16T20:06:04+00:00","msg":"move: step=492, dir=D"}
+{"no":861,"time_server":"2025-12-16T20:06:04+00:00","msg":"wall touched → direction reversed to R"}
+{"no":862,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":863,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=493, dir=L"}
+{"no":864,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":865,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":866,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=494, dir=U"}
+{"no":867,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":868,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":869,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=495, dir=R"}
+{"no":870,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":871,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":872,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=496, dir=D"}
+{"no":873,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":874,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":875,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=497, dir=L"}
+{"no":876,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":877,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":878,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=498, dir=U"}
+{"no":879,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":880,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":881,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=499, dir=R"}
+{"no":882,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":883,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":884,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=500, dir=D"}
+{"no":885,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":886,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":887,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=501, dir=L"}
+{"no":888,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":889,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":890,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=502, dir=U"}
+{"no":891,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":892,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":893,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=503, dir=R"}
+{"no":894,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":895,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":896,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=504, dir=D"}
+{"no":897,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":898,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":899,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=505, dir=L"}
+{"no":900,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":901,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":902,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=506, dir=U"}
+{"no":903,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":904,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":905,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=507, dir=R"}
+{"no":906,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":907,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":908,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=508, dir=D"}
+{"no":909,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":910,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":911,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=509, dir=L"}
+{"no":912,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":913,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":914,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=510, dir=U"}
+{"no":915,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":916,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":917,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=511, dir=R"}
+{"no":918,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":919,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":920,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=512, dir=D"}
+{"no":921,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to R"}
+{"no":922,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to L"}
+{"no":923,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=513, dir=L"}
+{"no":924,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to D"}
+{"no":925,"time_server":"2025-12-16T20:06:05+00:00","msg":"wall touched → direction reversed to U"}
+{"no":926,"time_server":"2025-12-16T20:06:05+00:00","msg":"move: step=514, dir=U"}
+{"no":927,"time_server":"2025-12-16T20:06:05+00:00","msg":"close clicked → render logs table"}
